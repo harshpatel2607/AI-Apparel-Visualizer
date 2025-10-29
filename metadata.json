@@ -1,0 +1,5 @@
+{
+  "name": "AI Apparel Visualizer",
+  "description": "Upload a T-shirt, a model, and a design to instantly visualize how your custom apparel will look. Our AI realistically combines the images, adjusting for folds and lighting.",
+  "requestFramePermissions": []
+}
